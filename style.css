@@ -31,7 +31,7 @@ html {
 
    font-family: century;
    font-size: 1.1rem;
-   font-weight: bold;
+  
 }
 
 .navbar ul li a{
@@ -119,7 +119,7 @@ html {
    background-color: white;
    color: black;
    box-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white;
-   font-weight: bold;
+   
 }
 
 #about {
